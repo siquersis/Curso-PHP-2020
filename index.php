@@ -89,8 +89,55 @@
                              Conversões
                           </a>
                        </li>
+                      </ul> 
+                  </div>
+                     <div class="modulo azul">
+                           <h3>Básico</h3>
+                         <ul>
+                           <li>
+                             <a href="exercicio.php?dir=variaveis&file=variaveis">
+                                Variáveis
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=variaveis&file=desafio_equacao">
+                                Desafio Equação
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=variaveis&file=atribuicao">
+                                Atribuições
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=variaveis&file=interpolacao">
+                                Interpolação
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=variaveis&file=variaveis">
+                               Variáveis variáveis
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=variaveis&file=desafio_var">
+                               Desafio variáveis
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=variaveis&file=val_ref">
+                              Valor vs Referência
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=variaveis&file=constantes">
+                              Constantes
+                             </a>
+                           </li>
+                         </ul>
+                   </div>       
             </nav>
-        </div>
+          </div>
    </main>
    <footer class="rodape">
        SIQUER SIS - SOLUÇÕES E SISTEMAS © <?= date('Y'); ?>
