@@ -179,7 +179,66 @@
                              </a>
                            </li>
                         </ul>
-                   </div>             
+                   </div> 
+                   <div class="modulo laranja">
+                        <h3>5. Arrays</h3>
+                        <ul>
+                           <li>
+                             <a href="exercicio.php?dir=array&file=basico">
+                                Array
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=array&file=mapa">
+                                Mapa
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=array&file=desafio_index">
+                                Desafio Index
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=array&file=desafio_meses">
+                                Desafio Meses
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=array&file=operacao_array">
+                                Operações com Array
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=array&file=desafio_sorteio">
+                                Desafio - Sorteio
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=array&file=array_multi">
+                                Array Multidimensional
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=array&file=array_const">
+                                Arrays Constantes
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=array&file=get">
+                                GET
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=array&file=post">
+                                POST
+                             </a>
+                           <li>
+                             <a href="exercicio.php?dir=array&file=comparacao">
+                                Comparação entre Arrays
+                             </a>
+                           </li>
+                        </ul>
+               </div>                  
             </nav>
           </div>
    </main>
