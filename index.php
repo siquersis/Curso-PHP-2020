@@ -238,7 +238,47 @@
                              </a>
                            </li>
                         </ul>
-               </div>                  
+                   </div>   
+                   <div class="modulo verde-escuro">
+                        <h3>6. Repetições</h3>
+                        <ul>
+                           <li>
+                             <a href="exercicio.php?dir=repeticoes&file=for">
+                                Laço For
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=repeticoes&file=desafio_for">
+                                Desafio For
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=repeticoes&file=foreach">
+                                Foreach
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=repeticoes&file=break_continue">
+                                Break e Continue
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=repeticoes&file=while">
+                                While e DoWhile
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=repeticoes&file=desafio_tabela">
+                                Desafio Tabela - 1
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=repeticoes&file=desafio_tabela2">
+                                Desafio Tabela - 2
+                             </a>
+                           </li>
+                        </ul>
+                     </div>                     
             </nav>
           </div>
    </main>
