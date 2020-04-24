@@ -278,7 +278,47 @@
                              </a>
                            </li>
                         </ul>
-                     </div>                     
+                     </div>  
+                     <div class="modulo vermelho-escuro">
+                        <h3>7. Funções & Escopo</h3>
+                        <ul>
+                           <li>
+                             <a href="exercicio.php?dir=funcoes&file=escopo">
+                                Função & Escopo
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=funcoes&file=argumento">
+                                Argumento e Retorno
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=funcoes&file=desafio_palindromo">
+                                Desafio Palindromo
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=funcoes&file=arg_variaveis">
+                                Argumentos Variáveis
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=funcoes&file=arg_padrao">
+                                Argumentos Padrão
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=funcoes&file=dec_tipos">
+                                Declarando Tipos
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=funcoes&file=funcao_anonima">
+                                Funções Anônimas
+                             </a>
+                           </li>
+                        </ul>   
+                     </div>                         
             </nav>
           </div>
    </main>
