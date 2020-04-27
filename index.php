@@ -332,6 +332,16 @@
                                 Desafio Recursividade
                              </a>
                            </li>
+                           <li>
+                             <a href="exercicio.php?dir=funcoes&file=retornando_funcao">
+                                Duplicando Função
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=funcoes&file=map_filter">
+                                Map e Filter
+                             </a>
+                           </li>
                         </ul>   
                      </div>                         
             </nav>
