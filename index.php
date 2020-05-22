@@ -343,12 +343,57 @@
                              </a>
                            </li>
                         </ul>   
-                     </div>                         
-            </nav>
-          </div>
+                     </div>   
+                     <div class="modulo azul-escuro">
+                        <h3>8. Paradigma</h3>
+                        <ul>
+                           <li>
+                             <a href="exercicio.php?dir=classes_objetos&file=classe">
+                                Primeira Classe
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=classes_objetos&file=desafio_data">
+                                Desafio Classe
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">
+                                Construtor e Destrutor
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=classes_objetos&file=heranca">
+                                 Herança
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=classes_objetos&file=visibilidade">
+                                 Visibilidade
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=classes_objetos&file=static">
+                                 Membros Estáticos
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=classes_objetos&file=interface">
+                                 Interface
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=classes_objetos&file=abstrata">
+                                Classe Abstrata
+                             </a>
+                           </li>
+                        </ul>
+                     </div>                            
+         </nav>
+      </div>
    </main>
-   <footer class="rodape">
-       SIQUER SIS - SOLUÇÕES E SISTEMAS © <?= date('Y'); ?>
-   </footer>
+      <footer class="rodape">
+         SIQUER SIS - SOLUÇÕES E SISTEMAS © <?= date('Y'); ?>
+      </footer>
 </body>
 </html>
