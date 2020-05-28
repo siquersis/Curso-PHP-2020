@@ -387,6 +387,36 @@
                                 Classe Abstrata
                              </a>
                            </li>
+                           <li>
+                             <a href="exercicio.php?dir=classes_objetos&file=desafio_sete_erros">
+                                Desafio dos 7 Erros
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=classes_objetos&file=modificador_final">
+                                Modificador Final 
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=classes_objetos&file=trait_01">
+                                #Trait 01 
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=classes_objetos&file=trait_02">
+                                #Trait 02 
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=classes_objetos&file=metodos_magicos">
+                                Métodos Mágicos
+                             </a>
+                           </li>
+                           <li>
+                             <a href="exercicio.php?dir=classes_objetos&file=polimorfismo">
+                                Polimorfismo
+                             </a>
+                           </li>
                         </ul>
                      </div>                            
          </nav>
